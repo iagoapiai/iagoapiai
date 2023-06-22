@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iago</h1>
-<h3 align="center">A developer from Brazi! 🇧🇷 </h3>
+<h3 align="center">A developer from Brazi! Google (Noto Color Emoji - Unicode 15.0) </h3>
 <p align="center"> <img align="center" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /> </p>
 
 
