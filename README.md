@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iago </h1>
 <h3 align="center">A developer from Brazi!</h3>
-<p align="center"> <img align="center" alt="Coder GIF" height=350 width=350 src="https://github.com/user-attachments/assets/d2043bbd-eb66-4660-94f9-3dfcb19d73f0"/> </p>
+<p align="center"> <img align="center" alt="Coder GIF" height=380 width=350 src="https://github.com/user-attachments/assets/d2043bbd-eb66-4660-94f9-3dfcb19d73f0"/> </p>
 
 
 <h3 align="center">Connect with me:</h3>
