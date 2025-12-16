@@ -5,11 +5,20 @@
 </p>
 
 ---
+
 <p align="center">
   Software developer passionate about technology, education, and creativity.  
-  Working with frontend and backend development in production environments.  
-  Tech stack: Python, React, JavaScript, HTML, CSS, Node.js, and SQL.
+  Working with frontend and backend development in production environments.
 </p>
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  Python • React • JavaScript • HTML • CSS • Node.js • SQL
+</p>
+
 
 ---
 
