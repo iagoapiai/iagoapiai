@@ -13,14 +13,11 @@ Developer and Data Analyst</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fernanda-kipper-5958a61a9/">
+  <a href="https://www.linkedin.com/in/iago-armelin-piai/">
     <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
-  <a href="https://fernandakipper.com/">
-    <img src="https://img.shields.io/badge/-Website-00AB33?style=flat-square&logo=Google-Chrome&logoColor=white">
-  </a>
-  <a href="mailto:contato@fernandakipper.com">
-    <img src="https://img.shields.io/badge/-contato@fernandakipper.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  <a href="mailto:iagoarmelinpiai@hotmail.com">
+    <img src="https://img.shields.io/badge/-iagoarmelinpiai@hotmail.com-00AB33?style=flat-square&logo=Hotmail&logoColor=white">
   </a>
 </p>
 
