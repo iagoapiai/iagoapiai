@@ -24,7 +24,7 @@
 - 🔭 Dev at [Ibbx](https://ibbx.tech/)
 - 🧑‍🏫 Bachelor's in Computer Science
 - 🏆 Im building a party app 
-- 📹 You can found me at [Linkedin]([[https://www.instagram.com/iagopiai_/])
+- 📹 You can found me at [Linkedin](https://www.instagram.com/iagopiai_/)
 
 ---
 
