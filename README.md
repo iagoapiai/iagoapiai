@@ -1,34 +1,26 @@
-<h1 align="center">Hi, I'm Iago 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>Full Stack Developer & Data Analyst</em>
-</p>
+# Hi, I'm Iago 👋
 
----
+### Full Stack Developer • Data Analyst • Problem Solver
 
-<p align="center">
-  Software developer passionate about technology, education, and creativity.  
-  Working with frontend and backend development in production environments.
-</p>
+Building software that solves real-world problems.
 
----
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,nodejs,postgres" />
-</p>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,nextjs,nodejs,postgres,docker,git" />
+
+</div>
 
 ---
 
-### 🧠 About Me
+## About Me
 
-- 🔭 Dev at [Ibbx](https://ibbx.tech/)
-- 🧑‍🏫 Bachelor's in Computer Science
-- 🏆 Im building a party app 
-- 📹 You can found me at [Linkedin](https://www.linkedin.com/in/iago-armelin-piai/)
+I'm a Brazilian Full Stack Developer passionate about creating scalable applications, automating processes, and transforming data into meaningful insights.
 
----
+Currently working on production systems while constantly exploring new technologies and building personal projects.
 
-<p align="center">
-  <em>Keep building. One commit at a time.</em> 🟩
-</p>
-
+- 💼 Full Stack Developer at **IBBx**
+- 🎓 Bachelor's in Computer Science
+- 🚀 Building my own party/event platform
+- 📊 Passionate about Data Analytics &
