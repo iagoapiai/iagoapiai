@@ -6,7 +6,6 @@
 
 </div>
 
-
 # About Me
 
 I'm a **Full Stack Developer** from **Brazil** passionate about building scalable applications, creating dashboards, automating workflows and transforming data into business solutions.
@@ -23,9 +22,7 @@ Outside of work, I enjoy creating personal projects, exploring software architec
 - Currently studying AI, Cloud and Software Architecture
 - I love solving complex problems with simple solutions
 
-
-
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -52,7 +49,7 @@ Outside of work, I enjoy creating personal projects, exploring software architec
 </p>
 
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
 
@@ -61,7 +58,7 @@ Outside of work, I enjoy creating personal projects, exploring software architec
 </p>
 
 
-# 📊 Activity Graph
+# Activity Graph
 
 <p align="center">
 
@@ -70,7 +67,7 @@ Outside of work, I enjoy creating personal projects, exploring software architec
 </p>
 
 
-# 🔌 Connect with Me
+# Connect with Me
 
 <p align="left">
 
