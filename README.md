@@ -48,13 +48,6 @@ Outside of work, I enjoy creating personal projects, exploring software architec
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,npm" />
 </p>
 
-
-# GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=iagoapiai&theme=github-dark-blue&hide_border=true"/>
-
 </p>
 
 
