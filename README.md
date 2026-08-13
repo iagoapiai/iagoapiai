@@ -73,7 +73,4 @@ Outside of work, I enjoy creating personal projects, exploring software architec
 </a>
 
 <div align="center">
-
-If you like my work, consider following me or checking out my repositories.
-
 </div>
