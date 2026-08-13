@@ -67,7 +67,7 @@ Outside of work, I enjoy creating personal projects, exploring software architec
 <a href="https://www.linkedin.com/in/iago-armelin-piai">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
+ㅤ
 <a href="mailto:iagoarmelinpiai@hotmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
