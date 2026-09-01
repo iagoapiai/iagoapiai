@@ -51,15 +51,6 @@ Outside of work, I enjoy creating personal projects, exploring software architec
 </p>
 
 
-# Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iagoapiai&theme=github-compact&hide_border=true"/>
-
-</p>
-
-
 # Connect with Me
 
 <p align="left">
